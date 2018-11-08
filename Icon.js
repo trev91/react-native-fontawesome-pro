@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { View, TouchableOpacity } from "react-native"
-import { Svg, Path } from "Expo";
+import { Svg, Path } from "expo";
 import { findIconDefinition } from "@fortawesome/fontawesome-svg-core";
 import { prefixTypes } from "./config";
 
