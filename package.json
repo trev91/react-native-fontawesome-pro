@@ -28,7 +28,6 @@
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.0",
     "expo": "^31.0.4",
-    "react-native-svg": "^8.0.8"
   },
   "devDependencies": {
     "babel-jest": "22.4.1",
@@ -43,7 +42,8 @@
     "@fortawesome/pro-light-svg-icons": "*",
     "@fortawesome/pro-regular-svg-icons": "*",
     "@fortawesome/pro-solid-svg-icons": "*",
-    "@fortawesome/free-brands-svg-icons": "*"
+    "@fortawesome/free-brands-svg-icons": "*",
+    "react-native-svg": "^8.0.8"
   },
   "jest": {
     "preset": "react-native"
