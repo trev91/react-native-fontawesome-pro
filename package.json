@@ -26,7 +26,8 @@
     "url": "git+https://github.com/shyaniv7/react-native-fontawesome-pro.git"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.0"
+    "@fortawesome/fontawesome-svg-core": "1.2.0",
+    "expo": "^31.0.4"
   },
   "devDependencies": {
     "babel-jest": "22.4.1",
